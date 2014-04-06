@@ -1,4 +1,4 @@
 MultipleLayouttAdapterDemo
 ==========================
 
-The demo project for MultipleLayouttAdapter
+The demo project for MultipleLayouttAdapter(https://github.com/drivedreams/MultipleLayouttAdapter).
